@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.42ebd797.css",
+    "main.js": "/static/js/main.87e755da.js",
+    "static/media/Winclogo.png": "/static/media/Winclogo.308c164c94aad20a2d38.png",
+    "static/media/Dashboard.png": "/static/media/Dashboard.b43e56dec9628e9ee3b6.png",
+    "index.html": "/index.html",
+    "main.42ebd797.css.map": "/static/css/main.42ebd797.css.map",
+    "main.87e755da.js.map": "/static/js/main.87e755da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42ebd797.css",
+    "static/js/main.87e755da.js"
+  ]
+}
